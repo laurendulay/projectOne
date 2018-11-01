@@ -1,12 +1,5 @@
 <style> 
-.box {
-    color:#f5989d
-    height: 175px;
-    width: 5000px;
-    border: 25px #f5989d;
-    padding: 25px;
-    margin: 25px;
-}
+
 .clear {clear: both}
 .column {
     float: left;
